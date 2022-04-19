@@ -1,3 +1,4 @@
 out/
 /.idea/
-/semana1-processador-nota-fiscal-main.iml
+/processador-nota-fiscal.iml
+/target/
