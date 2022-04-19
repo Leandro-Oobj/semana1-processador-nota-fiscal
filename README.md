@@ -32,10 +32,10 @@ Esse comando terá o código compilado no diretório `out`.
 Depois de compilado, você pode executar o projeto para processar o `itens-pedido.csv` da seguinte maneira:
 
 ```sh
-java -cp "out:libs/*" br.com.alura.oobj.Main itens-pedido.csv
+java -cp "out:libs/*" src.java.oobj.Main itens-pedido.csv
 ```
 
-> No Windows, execute: `java -cp out;libs/*; br.com.alura.oobj.Main itens-pedido.csv`
+> No Windows, execute: `java -cp out;libs/*; src.java.oobj.Main itens-pedido.csv`
 
 Para processar o XML, basta passar `itens-pedido.xml` como parâmetro.
 

@@ -1,4 +1,4 @@
-package br.com.alura.oobj;
+package src.main.java.oobj;
 
 import java.math.BigDecimal;
 import java.util.TreeMap;

@@ -1,4 +1,4 @@
-package br.com.alura.oobj;
+package src.main.java.oobj;
 
 import com.opencsv.bean.CsvBindByName;
 

@@ -1,4 +1,4 @@
-package br.com.alura.oobj;
+package src.main.java.oobj;
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.opencsv.bean.CsvToBean;
